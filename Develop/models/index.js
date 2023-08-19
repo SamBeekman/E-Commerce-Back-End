@@ -18,16 +18,14 @@ Category.hasMany(Product, {
 Product.belongsToMany(Tag, {
   through: {
     model: ProductTag
-  },
-  as: 'product_many_tags'
+  }
 });
 
 // Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
   through: {
     model: ProductTag
-  },
-  as: 'tag_many_products'
+  }
 });
 
 module.exports = {
