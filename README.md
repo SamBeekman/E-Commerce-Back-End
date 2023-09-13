@@ -29,16 +29,15 @@ Clone the repo and execute in the CLI. This project utilises Express.js and Sequ
 
 To see the magic, first install packages with 'npm i', then log into mysql in the terminal and copy and paste the database (db) code. Once the database is created, seed the database using 'npm run seed' and then start the server using 'npm start'.
 
-![piece of shit](https://github.com/SamBeekman/E-Commerce-Back-End/assets/131665093/8f9345b5-942d-417f-a5be-cb01d462a98e)
+![image](https://github.com/SamBeekman/E-Commerce-Back-End/assets/131665093/3eb9845b-54c3-4def-ad36-23bc36903f17)
 
 
 
-
-Heroku link: 
+Link to video walkthrough: https://drive.google.com/file/d/1CfWw04iZ7CYHdoA6vCErnbv81fkfkKvc/view
 
 ## Contributing
 
-N/A
+The starter code for this project was supllied by the Monash Coding Bottcamp
 
 
 ## Tests
